@@ -1,6 +1,6 @@
 1) What is a gitignore file and what should it include for a Java project?
 
-This is a plain text file which communicates to Git about which files it should ignore and not track while committing a project to GitHub repo.
+This is a plain text file which communicates to Git about which files it should ignore and not track while committing a project to GitHub repo. It can include temporary files, or intermediate files.
 In a java project, it should contain "*.class" to ignore all the class files.
 
 2) What does fast-forward in Git mean?
